@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# NPM package-lock file, if you prefer using yarn.lock
+package-lock.json
+.env
+.env
+.env

@@ -1,0 +1,8 @@
+mkdir ticket-booking-backend 
+
+npm init -y  
+
+npm install express mongoose dotenv cors bcryptjs jsonwebtoken stripe nodemailer  
+
+
+npm install --save-dev nodemon morgan  
